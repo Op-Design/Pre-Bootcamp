@@ -1,0 +1,7 @@
+T Diagram (Code Snippet 2)
+
+Var							Value								Console
+produce						apples, oranges
+frozen						broccoli, ice cream
+frozen					broccoli, ice cream, hashbrowns
+													broccoli, ice cream, hashbrowns

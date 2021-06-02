@@ -1,0 +1,5 @@
+T Diagram (Code Snippet 1)
+
+Var							Value								Console
+auntContactInfo			Paula, Smith, 1234 Main Street, St. Louis, MO, 12345
+												Paula, Smith, 1234 Main Street, St. Louis, MO, 12345

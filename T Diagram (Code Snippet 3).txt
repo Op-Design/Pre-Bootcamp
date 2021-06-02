@@ -1,0 +1,7 @@
+T Diagram (Code Snippet 3)
+
+Var							Value								Console
+auntContactInfo					Bambi, E.T., Toy Story
+auntContactInfo				Bambi, E.T., Toy Story, Zoro
+auntContactInfo				Bambi, Beetlejuice, Toy Story, Zoro
+													Bambi, Beetlejuice, Toy Story, Zoro
